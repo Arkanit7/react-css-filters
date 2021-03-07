@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-css-filters/static/css/main.f740ac11.chunk.css",
+    "main.js": "/react-css-filters/static/js/main.de1b0204.chunk.js",
+    "main.js.map": "/react-css-filters/static/js/main.de1b0204.chunk.js.map",
+    "runtime-main.js": "/react-css-filters/static/js/runtime-main.b1d4009e.js",
+    "runtime-main.js.map": "/react-css-filters/static/js/runtime-main.b1d4009e.js.map",
+    "static/js/2.7947c897.chunk.js": "/react-css-filters/static/js/2.7947c897.chunk.js",
+    "static/js/2.7947c897.chunk.js.map": "/react-css-filters/static/js/2.7947c897.chunk.js.map",
+    "index.html": "/react-css-filters/index.html",
+    "static/css/main.f740ac11.chunk.css.map": "/react-css-filters/static/css/main.f740ac11.chunk.css.map",
+    "static/js/2.7947c897.chunk.js.LICENSE.txt": "/react-css-filters/static/js/2.7947c897.chunk.js.LICENSE.txt",
+    "static/media/cats.bc8844fe.jpg": "/react-css-filters/static/media/cats.bc8844fe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1d4009e.js",
+    "static/js/2.7947c897.chunk.js",
+    "static/css/main.f740ac11.chunk.css",
+    "static/js/main.de1b0204.chunk.js"
+  ]
+}
